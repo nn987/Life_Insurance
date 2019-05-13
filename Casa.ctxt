@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Casa()
+comment0.text=Construtor\ simples\ \n
+comment1.params=cod
+comment1.target=Casa(String)
+comment1.text=Construtor\ com\ par\u00E3metros\ \n
+numComments=2

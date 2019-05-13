@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SegurosException()
+comment0.text=Construtor\ simples
+comment1.params=s
+comment1.target=SegurosException(java.lang.String)
+comment1.text=Construtor\ com\ mensagem
+numComments=2

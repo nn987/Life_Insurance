@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=prompt
+comment0.target=void\ printPrompt(java.lang.String)
+comment0.text=\r\n\ print\ a\ prompt\ on\ the\ console\ but\ don't\ print\ a\ newline\r\n\ @param\ prompt\ the\ prompt\ string\ to\ display\r\n
+comment1.params=
+comment1.target=java.lang.String\ readString()
+comment1.text=\r\n\ read\ a\ string\ from\ the\ console.\ The\ string\ is\ \r\n\ terminated\ by\ a\ newline\r\n\ @return\ the\ input\ string\ (without\ the\ newline)\r\n
+comment2.params=prompt
+comment2.target=java.lang.String\ readString(java.lang.String)
+comment2.text=\r\n\ read\ a\ string\ from\ the\ console.\ The\ string\ is\ \r\n\ terminated\ by\ a\ newline\r\n\ @param\ prompt\ the\ prompt\ string\ to\ display\r\n\ @return\ the\ input\ string\ (without\ the\ newline)\r\n
+comment3.params=
+comment3.target=java.lang.String\ readWord()
+comment3.text=\r\n\ read\ a\ word\ from\ the\ console.\ The\ word\ is\ \r\n\ any\ set\ of\ characters\ terminated\ by\ whitespace\r\n\ @return\ the\ 'word'\ entered\r\n
+comment4.params=prompt
+comment4.target=int\ readInt(java.lang.String)
+comment4.text=\r\n\ read\ an\ integer\ from\ the\ console.\ The\ input\ is\ \r\n\ terminated\ by\ a\ newline\r\n\ @param\ prompt\ the\ prompt\ string\ to\ display\r\n\ @return\ the\ input\ value\ as\ an\ int\r\n\ @exception\ NumberFormatException\ if\ bad\ input\r\n
+comment5.params=prompt
+comment5.target=double\ readDouble(java.lang.String)
+comment5.text=\r\n\ read\ a\ floating\ point\ number\ from\ the\ console.\ \r\n\ The\ input\ is\ terminated\ by\ a\ newline\r\n\ @param\ prompt\ the\ prompt\ string\ to\ display\r\n\ @return\ the\ input\ value\ as\ a\ double\r\n\ @exception\ NumberFormatException\ if\ bad\ input\r\n
+numComments=6

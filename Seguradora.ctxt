@@ -1,0 +1,29 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Seguradora()
+comment1.params=seg
+comment1.target=Seguradora(Seguros)
+comment2.params=s
+comment2.target=void\ registaTitular(Seguros)
+comment2.text=[ok]\r\n\ Regista\ um\ titular.\ \ \ \ \ \r\n\ \r\n\ @param\ \ seguros\r\n
+comment3.params=titular
+comment3.target=java.util.Vector\ consultaTitular(java.lang.String)
+comment3.text=\r\n\ Consultar\ seguros\ de\ um\ titular\r\n\r\n\ @return\ Seguros\ \ \ \ \ \ \ \ \r\n
+comment4.params=s
+comment4.target=java.util.Vector\ lstSeguros(Seguros)
+comment4.text=[ok]\r\n\ lista\ seguros\ na\ hashtable\r\n\r\n\ @return\ Seguros\ \ \ \ \ \ \ \ \r\n
+comment5.params=s
+comment5.target=int\ totalSeguros(Seguros)
+comment5.text=[ok]\r\n\ Total\ de\ seguros\ na\ hashtable\r\n\r\n\ @return\ \ \ \ \ \ \ \ \ \r\n
+comment6.params=titular
+comment6.target=Seguros\ get_titular(java.lang.String)
+comment6.text=\r\n\ \ \r\n\ \ \r\n
+comment7.params=titular
+comment7.target=void\ remove_titular(java.lang.String)
+comment8.params=
+comment8.target=java.lang.Object\ clone()
+comment8.text=public\ Object\ clone()\ {\r\n\ \ \ \ \ \ \ \ \ Seguradora\ copia\ \=\ new\ Seguradora();\ \r\n\ \ \ \ \ \ \ \ \ return\ copia;\r\n\ \ }\ \ \ \ \r\n\ \ \r\n
+comment9.params=
+comment9.target=java.lang.String\ toString()
+comment9.text=ToString
+numComments=10
